@@ -1,0 +1,21 @@
+body{
+    background-color: darkred;
+    color: white;
+}
+a{
+    color: rgb(60, 202, 249);
+}
+article{
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+}
+h2{
+    
+     font-family: "Shadows Into Light", cursive;
+     font-weight: 400;
+    font-style: normal;
+      
+      
+}
+
